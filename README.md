@@ -1,6 +1,6 @@
 # AI-Based-Student-Academic-Performance-Prediction-Analysis-System
 
-#First:Install Python
+# First:Install Python
 
 Open CMD:
 
@@ -18,7 +18,7 @@ If:
 
 then install Python first.
 
-#Second: Install VS Code Extensions
+# Second: Install VS Code Extensions
 
 Open VS Code.
 
@@ -37,7 +37,7 @@ Microsoft
 
 These are essential.
 
-#Third: Create a Virtual Environment
+# Third: Create a Virtual Environment
 
 Open terminal in VS Code.
 
@@ -51,7 +51,7 @@ venv/
 
 inside your project folder.
 
-#Fourth: Activate Virtual Environment
+# Fourth: Activate Virtual Environment
 
 Inside VS Code terminal:
 
@@ -60,7 +60,7 @@ venv\Scripts\activate
 You should see:
 
 (venv) C:\Users\...
-#Fifth: Install Required Packages
+# Fifth: Install Required Packages
 
 Run:
 
@@ -77,7 +77,8 @@ Or one command:
 
 pip install pandas numpy matplotlib seaborn plotly scikit-learn jupyter notebook
 
-#Recommended Execution Order
+# Recommended Execution Order
+
 1️⃣ First Run
 01_data_exploration.ipynb
 
